@@ -1,4 +1,4 @@
-# MappeningsFrontend README
+# Mappenings Frontend README
 
 ## Project Overview
 
