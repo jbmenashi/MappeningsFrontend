@@ -1,0 +1,76 @@
+body {
+  background-color: #ebf3fa;
+}
+
+.site-title {
+  background-color: #327ab6;
+  border-width: 1px;
+  border-radius: 20px;
+  margin: 5px auto 15px auto;
+  width: 400px;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+.date-select {
+  margin: 10px auto;
+  width: 300px;
+  height: 30px;
+}
+
+#map-area {
+  float: left;
+  border: 3px solid #327ab6;
+  border-radius: 5px;
+  margin: 5px 5px 10px 20px;
+  width: 875px;
+  height: 500px;
+}
+
+.location-info {
+  float: right;
+  border: 3px solid #327ab6;
+  border-radius: 5px;
+  margin: 5px 20px 5px 5px;
+  padding-left: 10px;
+  width: 485px;
+  height: 245px;
+}
+
+.event-info {
+  float: right;
+  border: 3px solid #327ab6;
+  border-radius: 5px;
+  margin: 5px 20px 10px 5px;
+  padding-left: 10px;
+  width: 485px;
+  height: 245px;
+}
+
+.add-event {
+  border: 3px solid #327ab6;
+  border-radius: 5px;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 400px;
+  height: 600px;
+  clear: left;
+}
+
+#event-info-deets {
+  width: 240px;
+  float: left;
+}
+
+#event-info-image {
+  width: 200px;
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.add-event-form {
+  color: blue;
+}
